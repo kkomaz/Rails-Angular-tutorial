@@ -1,0 +1,1 @@
+@restauranteur = angular.module('resauranteur', []);
